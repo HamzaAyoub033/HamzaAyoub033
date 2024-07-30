@@ -4,11 +4,11 @@ Proficient Full Stack Developer with a strong foundation in JavaScript, TypeScri
 </p>
     
 <a href="https://www.linkedin.com/in/hamza-ayoub033/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GitHub" align="center" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GitHub" align="center" target="_blank"/>
 </a>
 
 <a href="https://hamza-ayoub.netlify.app/">
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" align="center" />
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" align="center" target="_blank" />
 </a>
 
 </div>
