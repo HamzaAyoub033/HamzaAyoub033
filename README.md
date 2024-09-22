@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Hamza Ayoub</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaAyoub033&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaayoub" /> </p>
+
+<h1> About Me 😄 </h1> 
+
+- 🎓 **Education:** Software Engineer.
+- 💻 **Working as:** Full Stack Developer
+- 📫 **How to reach me:** You can contact me at **hamzaayoub.engr@gmail.com**.
 <div>
 <p>
 Proficient Full Stack Developer with a strong foundation in JavaScript, TypeScript, Node.js, React.js, and MongoDB. Expertly crafting robust and scalable web applications using the MERN stack and Next.js. Possessing a keen eye for design and problem-solving, I deliver innovative solutions that exceed expectations. Committed to staying at the forefront of technology, I thrive on challenges and continuous learning.
