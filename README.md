@@ -3,7 +3,7 @@
 
 <h1> About Me 😄 </h1>
 
-- 🎓 **Education:** Software Engineer
+- 🎓 **Education:** Bachelor in Software Engineering (BSSE)
 - 💻 **Working as:** Senior Full Stack Engineer & AI/ML Engineer
 - 📫 **How to reach me:** hamzaayoub.engr@gmail.com
 
